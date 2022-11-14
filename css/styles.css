@@ -437,6 +437,9 @@ img {
 .project-item {
     background-color: var(--primary-white-color);
 }
+.project-item-link {
+    display: block;
+}
 .project-item-link:hover,
 .project-item-link:focus {
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 
